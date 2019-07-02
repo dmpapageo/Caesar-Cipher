@@ -8,9 +8,9 @@ The method is named after Julius Caesar, who used it to communicate with his off
 This version of Caesar Cipher shifts backwards when passing a positive value at num_to_rotate_by, and forward when passing a negative value
 
 Example:
-\Text : HELLO
-\Shift: 1
-\Cipher: GDKKN
+<br>Text : HELLO
+<br>Shift: 1
+<br>Cipher: GDKKN
 
 Text : HELLO
 Shift: -1
