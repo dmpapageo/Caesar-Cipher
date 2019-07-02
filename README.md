@@ -13,6 +13,6 @@ Example:
 <br>Cipher: GDKKN
 
 Text : HELLO
-Shift: -1
-Cipher:IFMMP
+<br>Shift: -1
+<br>Cipher:IFMMP
 
