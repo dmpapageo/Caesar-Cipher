@@ -14,5 +14,5 @@ Example:
 
 Text : HELLO
 <br>Shift: -1
-<br>Cipher:IFMMP
+<br>Cipher: IFMMP
 
