@@ -1,4 +1,4 @@
-# caesar-cipher
+# Caesar-Cipher
 
 The Caesar Cipher is one of the earliest and simplest method of encryption. It’s a type of substitution cipher, therefore each letter of a given text is replaced by a letter some fixed number of positions down the alphabet. 
 The method is named after Julius Caesar, who used it to communicate with his officials.
